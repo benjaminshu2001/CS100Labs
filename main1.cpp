@@ -1,5 +1,5 @@
 #include <iostream>
-#include "../header/rectangle.hpp"
+#include "rectangle.hpp"
 
 using namespace std;
 
